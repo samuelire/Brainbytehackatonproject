@@ -1,4 +1,4 @@
-# Brainbytehackatonproject
+hereytehackatonproject
 ....
 🎓 Student Dropout Risk Predictor
 Overview
@@ -9,9 +9,9 @@ It was developed for the Digitaley Drive AI/ML Hackathon (2025).
 The aim is to give teachers and schools a simple tool to identify at-risk students early.
 
 🚀 Live Demo
-Try the app here
+Try the app 
+https://tram-brain-byte-hackathon-2025.streamlit.app/
 
-Key Features
 Predicts dropout risk from academic and background data
 Provides a risk probability score (0.0 → 1.0)
 Identifies important features influencing risk (grades, absences, failures)
